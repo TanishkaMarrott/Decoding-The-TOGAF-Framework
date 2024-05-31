@@ -1,4 +1,4 @@
- ``markdown
+
    # TOGAF Learning Repository
 
    Hello there!
@@ -21,5 +21,5 @@
    If you'd like to learn with me, simply navigate through the directories, pull out some Markdown files - topics you'd like to learn. As always, open to suggestions & improvisations. Please feel free to connect at tanishka.marrott@gmail.com
 
    Happy Learning!
-   ```
+
 
