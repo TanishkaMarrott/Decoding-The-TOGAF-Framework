@@ -1,5 +1,5 @@
 
-   # TOGAF Learning Repository
+   # TOGAF Insights
 
    Hello there!
 
