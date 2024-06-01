@@ -3,7 +3,9 @@
 
    Hello there!
 
-   This is Tanishka, and a very warm welcome to my TOGAF Learning repository! I've dedicated this repository towards documenting my entire learning journey, as I dive into & grasp the nuances of TOGAF --> how it'll help ensure that we're *actually* aligning technical infrastructure with the business goals.
+   This is Tanishka, and a very warm welcome to my TOGAF Learning repository! 
+   
+   I've dedicated this repository towards documenting my entire learning journey, as I dive into & grasp the nuances of TOGAF --> how it'll help ensure that we're *actually* aligning technical infrastructure with the business goals.
 
    Here, you'll find some notes, summaries, all things related to TOGAF...
 
