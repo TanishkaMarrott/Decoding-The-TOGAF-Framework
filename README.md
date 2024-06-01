@@ -3,18 +3,17 @@
 
    Hello there!
 
-   This is Tanishka, and a warm welcome to my TOGAF Learning repository! I've dedicated this repository towards documenting my learning journey & understanding the nuances of TOGAF - how it *actually* helps ensure we're aligning technical infra with the business goals.
+   This is Tanishka, and a very warm welcome to my TOGAF Learning repository! I've dedicated this repository towards documenting my entire learning journey, as I dive into & grasp the nuances of TOGAF --> how it'll help ensure that we're *actually* aligning technical infrastructure with the business goals.
 
-   
-   Here, you'll find some notes, summaries, all things related to TOGAF.
+   Here, you'll find some notes, summaries, all things related to TOGAF...
 
    ## How I've structured it:-
 
-   - **Basics**: Some basic introduction to TOGAF, key objectives plus fundamental concepts
-   - **ADM**: Detailed breakdown of the Architecture Development Method (ADM) phases.
-   - **Enterprise Continuum**: Information on the Enterprise Continuum and Architecture Repository.
-   - **Case Studies**: Practical examples and case studies related to TOGAF implementation.
-   - **Resources**: Books, articles, and websites for further reading and reference.
+   - **Basics**: Fundamental Concepts plus TOGAF Key Objectives
+   - **ADM**: Deep-dive into Architecture Development Method plus its phases
+   - **Enterprise Continuum** Plus the Architecture Repository
+   - **Case Studies**: Practical examples and case studies on implementing TOGAF
+   - **Resources**:  Books, articles and websites I feel would be worthwhile for further reading and reference.
 
    ## How could you get started?
 
