@@ -1,25 +1,21 @@
+# Insights into the TOGAF Framework
 
-   # TOGAF Insights
+This space is dedicated to documenting my journey, as I explore enterprise architecture, specifically through the lens of The Open Group Architecture Framework - TOGAF.
 
-   Hello there!
+As I dive deep into the principles and practices of TOGAF, this repository serves as both a study guide and a resource for anyone interested in understanding enterprise architecture
 
-   This is Tanishka, and a very warm welcome to my TOGAF Learning repository! 
-   
-   I've dedicated this space towards documenting my entire learning journey, as I dive into & grasp the nuances of TOGAF --> **how it'll help ensure that we're *actually* aligning technical infrastructure with the business goals.**
 
-   Here, you'll find some notes, summaries, all things related to TOGAF...
-
-   ## How I've structured it:-
+## Breakdown:
 
    --> **Basics**: Fundamental Concepts plus TOGAF Key Objectives
 
    --> **ADM**: Deep-dive into Architecture Development Method plus its phases
 
-   --> **Enterprise Continuum** Plus the Architecture Repository
+   --> **Enterprise Continuum** & the Architecture Repository
 
    --> **Case Studies**: Practical examples and case studies on implementing TOGAF
    
-   --> **Resources**:  Books, articles and websites I feel would be worthwhile for further reading and reference.
+   --> **Resources**:  Books, articles and websites I feel would be worthwhile for further reading and reference
 
    ## About this Journey
 
@@ -27,4 +23,8 @@
 
    Happy Learning!
 
+
+   #### Disclaimer:
+
+These notes and summaries have been captured during my preparation for the TOGAF Exam. They are intended to reflect my personal understanding and learning process. This repository is not meant to serve as an official guide or definitive source of information.
 
