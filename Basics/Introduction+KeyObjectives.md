@@ -2,7 +2,7 @@
 
 TOGAF (The Open Group Architecture Framework): It's actually a comprehensive framework for developing, managing plus governing enterprise architecture.
 
-## It's purpose? 
+## Purpose:-
 
 We're ensuring that our IT infrastructure *actually* supports and aligns with our business goals. It isn't a monolithic manual, it's in fact a compilation of some industry-standard best practices, tools that'll actually facilitate architecture development and management, Some Structured approaches/ methodologies that'll help ensure we're streamlining our processes, while still ensuring that architecture practices at our organisation are standardised, whilst being cmpliant.
 
@@ -21,4 +21,4 @@ We're ensuring that our IT infrastructure *actually* supports and aligns with ou
 
 **Change management:** We need to ensure a smooth and well-managed plans/ roadmaps for transition
 
-**
+**Risk management:-** It'll help evaluate the risk associated with IT Investments. Evaluating feasibility, and driving decision-making accordingly. 
