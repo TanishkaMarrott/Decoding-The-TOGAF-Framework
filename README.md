@@ -7,21 +7,19 @@ As I dive deep into the principles & practices of TOGAF, this repository serves 
 
 ## Breakdown:
 
-   --> **Basics**: Fundamental Concepts plus TOGAF Key Objectives
+Basics: Fundamental concepts and key objectives of TOGAF
 
-   --> **ADM**: Deep-dive into Architecture Development Method plus its phases
+ADM: Deep dive into the Architecture Development Method and its phases
 
-   --> **Enterprise Continuum** & the Architecture Repository
+Enterprise Continuum & Architecture Repository: Understanding the Enterprise Continuum and how the Architecture Repository fits into the framework
 
-   --> **Case Studies**: Practical examples and case studies on implementing TOGAF
-   
-   --> **Resources**:  Books, articles and websites I feel would be worthwhile for further reading and reference
+Case Studies: Practical examples and real-world case studies on implementing TOGAF
 
+Resources: A curated list of books/ websites that I feel could be worth-while for further reference
 
 ## Setting the stage
 
-
-Before exploring TOGAF, it'll be worth-while if we'd gain some insights into what exactly is Enterprise Architecture
+Before exploring TOGAF, it's crucial that we gain some insights into what exactly is Enterprise Architecture
 
 An enterprise is a collection of Organisations with some Shared Objectives, They have diverse functions, yet *some shared, unified goals*
 
