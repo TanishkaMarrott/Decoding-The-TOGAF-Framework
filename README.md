@@ -25,7 +25,7 @@ An enterprise is a collection of Organisations with some Shared Objectives, They
 
 The second term comes in Architecture.  It's a structure of components, their inter-relationships, the principles and guidelines that'll govern the design/evolution of our architectures
 
-TOGAF - isn't a monolithic manual, it's something more structured and phased out... this means it could either be used like a scaffolding, or maybe something that's pretty much tailored to your organisation's specific needs
+> TOGAF - isn't a monolithic manual, it's something more structured and phased out... this means it could either be used like a scaffolding, or maybe something that's pretty much tailored to your organisation's specific needs
 
 This means it comprises everything from Fundamental Concepts (ADM, Enterprise continuum) (More on this subsequently) , to tools, frameworks, best practices , proven methodologies that have been trialed and tested . 
 
