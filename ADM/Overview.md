@@ -8,9 +8,9 @@ Moreover, it's often referred to as the "Heart of TOGAF"
 
 Provides a holistic methodology for designing, planning, implementing, migrating and governing architecture. Has around 8 phases:-
 
- The Preliminary Phase
+ The Preliminary Phase:- Setting up architecture framework and principles. Plus, setting up the organisation (The Capability Part/ structurs/ roles/ responsibilities) to deliver successful projects
 
-Phase A :- Architecture Vision:- Setting up architecture framework and principles. Plus, setting up the organisation (The Capability Part) to deliver successful projects
+Phase A :- Architecture Vision:- 
 
 Phase B :- Business Architecture:- Aligning the business processes with the strategic goals we're looking at
 
