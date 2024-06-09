@@ -2,10 +2,7 @@
 
 Core concept within TOGAF. 
 
-Quickly breaking down the definition for lucidity:-
-
-- It's a framework
-- For Categoring the different architectural artifacts and solutions
+- Framework for categorising different architectural artifacts and solutions
 - According to varying levels of abstraction or specialisation
 - 
 Key Elements of an Enterprise Continuum:-
