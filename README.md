@@ -1,4 +1,4 @@
-# Insights into the TOGAF Framework
+# Decoding the TOGAF Framework
 
 This space is dedicated to documenting my journey, as I explore enterprise architecture, specifically  The Open Group Architecture Framework - TOGAF.
 
