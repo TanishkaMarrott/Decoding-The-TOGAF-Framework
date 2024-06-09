@@ -54,7 +54,20 @@ Examples include:-
 
 These are the crucial for driving governance, decision making, and stakeholder management
 
-### So, what was the significance of the content framework?
+### What significance does this hold?
+
+Very crucial part of the EA
+
+1 --> Strategic Organisation of Information --> Clarity, reusability across teams/ projects/ consistent management , documentation of architecture-related artifacts, amps up Clarity
+
+2 --> ABBS , SBBs , deliverables --> Make sure we're addressing all parts of an architecture, and nothing is overlooked
+
+3 --> Helps in an effective communication, among stakeholders : tech and non - tech, Common language of communication with regards to the architectural work
+
+4 --> The components of this framework aid in linking the the business goals, with the IT solutions. plus, some processes for Governance & Compliance
+
+
+> The architecture should very well-support the business objecives . <-- The Underpinning statement
 
 
 
