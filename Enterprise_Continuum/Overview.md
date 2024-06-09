@@ -4,7 +4,7 @@ Core concept within TOGAF.
 
 - Framework for categorising different architectural artifacts and solutions
 - According to varying levels of abstraction or specialisation
-- 
+  
 Key Elements of an Enterprise Continuum:-
 
 1. Architecture Continuum
