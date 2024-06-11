@@ -1,20 +1,32 @@
-# Quick Overview of TOGAF
+## Quick Overview on TOGAF
 
-TOGAF (The Open Group Architecture Framework): It's actually a comprehensive framework for developing, managing plus governing enterprise architecture.
+--> It's a well-structured framework for developing, managing plus governing Enterprise Architecture.
 
-## How is TOGAF different from other Project Management Frameworks?
-Okay, so the TOGAF framework is disticnt from the Project Management farmeworks, yet they're complementary from an organisationa; standpoint .
+</br>
 
-The Scope  + The Strategic Alignment Aspects 
+### How does TOGAF differ from other PM Frameworks?
 
-The scope and focus areas are different, With TOGAF , my prime focus is Enterprise Architecture, ensuring my tech is aligned with business *always*. Tech without Business alignment is similar to a train without an engine, we need some core business goals in place, before setting up our technology solutions.
-It's more around designing, planning, implementing , governing EA.
+I'd like to add a small note here:- TOGAF and PM Frameworks are distinct yet they're complementary from an organisational standpoint.
 
-While PM frameworks, are more geared towards the typical lifecycle processes centred around the delivery of projects, Initiation, Planning, monitoring, controlling, closing a project ---> within the scope, within timelines, within the budget, ensuring appropraite quality standards and timeliness
+</br>
 
-> So TOGAF is something around the "overarching" Enterprise Architecture.
 
-The framework components too are different --> ADM, Enterprise Continuum. We'll discuss these subsequently, as we dive deeper. 
+--> The scope and radars are different.
+
+With TOGAF, our prime focus revolves around developing, implementing and governing Enterprise Architecture
+
+PM Frameworks, on the other hand, are geared towards "typical lifecycle processes centred around delivery of projects"
+
+</br>
+
+> Initiation, planning, monitoring, controlling & closing a project ---> within the scope, the proposed timelines, the budget that's been sanctioned.
+Ensuring we're delivering quality within the said timelines. That's what PM is all about.
+
+</br>
+
+TOGAF is something around the "overarching" Enterprise Architecture...
+
+--> Not to mention, the framework components too differ. More on this subsequently, as we dive deeper. 
 
 Also, TOGAF's outputs describe various aspects of an architecture, like artifacts, building blocks, views, while typical PM frameworks' outputs are centred around project-documents
 
