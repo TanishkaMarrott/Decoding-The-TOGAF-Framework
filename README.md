@@ -1,15 +1,19 @@
 # Decoding the TOGAF Framework
 
-This repository is dedicated to chronicling my entire journey into Enterprise Architecture, specifically TOGAF. 
+This repository is dedicated towards chronicling my entire journey into Enterprise Architecture, more so TOGAF. 
 
-Here, I document my learning process, share some insights I find worth-while, more so from a practical standpoint plus reflect on the concepts I feel are integral to mastering TOGAF. 
+Here, I document my learning, share some insights I find worth-while,  from a practical standpoint. Plus, reflect on the concepts I feel are integral to mastering TOGAF. 
 
-Feel free to explore and contribute to this evolving repository.
+Feel free to explore and contribute to this evolving repository :)
 
 
 ## Setting the stage
 
-Before exploring TOGAF, it's crucial that we gain some insights into what exactly is Enterprise Architecture
+</br>
+
+> Before exploring TOGAF, it's crucial that we gain some insights into what exactly is Enterprise Architecture
+
+</br>
 
 An enterprise is a collection of Organisations with some Shared Objectives, They have diverse functions, yet *some shared, unified goals*
 
