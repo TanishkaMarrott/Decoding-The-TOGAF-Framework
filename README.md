@@ -1,21 +1,11 @@
 # Decoding the TOGAF Framework
 
-This space is dedicated to documenting my journey, as I explore enterprise architecture, specifically  The Open Group Architecture Framework - TOGAF.
+This repository is dedicated to chronicling my entire journey into Enterprise Architecture, specifically TOGAF. 
 
-As I dive deep into the principles & practices of TOGAF, this repository serves as a resource for anyone interested in understanding enterprise architecture
+Here, I document my learning process, share some insights I find worth-while, more so from a practical standpoint plus reflect on the concepts I feel are integral to mastering TOGAF. 
 
+Feel free to explore and contribute to this evolving repository.
 
-## Breakdown:
-
-Basics: Fundamental concepts and key objectives of TOGAF
-
-ADM: Deep dive into the Architecture Development Method and its phases
-
-Enterprise Continuum & Architecture Repository: Understanding the Enterprise Continuum and how the Architecture Repository fits into the framework
-
-Case Studies: Practical examples and real-world case studies on implementing TOGAF
-
-Resources: A curated list of books/ websites that I feel could be worth-while for further reference
 
 ## Setting the stage
 
