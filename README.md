@@ -7,6 +7,7 @@ Here, I document my learning, share some insights I find worth-while,  from a pr
 
 Feel free to explore and contribute to this evolving repository :)
 
+</br>
 
 ## Setting the stage
 
@@ -26,9 +27,11 @@ Feel free to explore and contribute to this evolving repository :)
 
 </br>
 
-This means it comprises fundamental concepts (ADM, Enterprise continuum) (More on this subsequently) , to tools, frameworks, best practices , proven methodologies that have actually been trialed and tested . 
+This means it comprises fundamental concepts (ADM, Enterprise continuum) (More on this subsequently) , to tools, frameworks, best practices , proven methodologies that have actually been tried and tested . 
 
-And why did I focus on Enterprise Architecture? 
+</br>
+
+## Why Focus on Enterprise Architecture?
 
 I feel it's a comprehensive and a "structured" framework for aligning IT strategy with business goals. EA allows for a *holistic* view of the entire Organisation's processes, systems and tech infrastructure. 
 
@@ -41,10 +44,11 @@ I feel it's a comprehensive and a "structured" framework for aligning IT strateg
 
 </br>
 
+
 Now that we're through with the intro, let's dive deeper into individual sections :)
 
 
-#### Quick Disclaimer
+## Quick Disclaimer
 
 I've captured and penned down these notes during my preparation for TOGAF 10 Foundation Exam. And intend to reflect my personal understanding & learnings. This is NOt meant to serve as a definitive source of information :)
 
