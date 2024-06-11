@@ -26,10 +26,14 @@ Feel free to explore and contribute to this evolving repository :)
 
 </br>
 
-This means it comprises fundamental concepts (ADM, Enterprise continuum) (More on this subsequently) , to tools, frameworks, best practices , proven methodologies that have been trialed and tested . 
+This means it comprises fundamental concepts (ADM, Enterprise continuum) (More on this subsequently) , to tools, frameworks, best practices , proven methodologies that have actually been trialed and tested . 
 
-And why Enterprise Architecture? It provides us with a structured framework to manage complexities;      
-Streamline operations and processes, maybe analyse and manage risks. Resource management or Stakeholder communication. 
+And why did I focus on Enterprise Architecture? 
+
+I feel it's a comprehensive and a "structured" framework for aligning IT strategy with business goals. EA allows for a *holistic* view of the entire Organisation's processes, systems and tech infrastructure. 
+
+--> This is *critical towards decision-making and "strategic" planning*. It optimises on current operations, but also
+
 
 </br>
 
@@ -40,7 +44,7 @@ Streamline operations and processes, maybe analyse and manage risks. Resource ma
 Now that we're through with the intro, let's dive deeper into individual sections :)
 
 
-#### Disclaimer:
+#### Quick Disclaimer
 
-These notes and summaries have been captured during my preparation for the TOGAF Exam. And intend to reflect my personal understanding and learning process. This repository is not meant to serve as an official guide or definitive source of information.
+I've captured and penned down these notes during my preparation for TOGAF 10 Foundation Exam. And intend to reflect my personal understanding & learnings. This is NOt meant to serve as a definitive source of information :)
 
