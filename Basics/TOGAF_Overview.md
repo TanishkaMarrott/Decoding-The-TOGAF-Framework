@@ -28,24 +28,28 @@ TOGAF is something around the "overarching" Enterprise Architecture...
 
 --> Not to mention, the framework components too differ. More on this subsequently, as we dive deeper. 
 
-Also, TOGAF's outputs describe various aspects of an architecture, like artifacts, building blocks, views, while typical PM frameworks' outputs are centred around project-documents
+--> TOGAF's outputs represent various aspects of an architecture --> comprise "re-usable building blocks" across projects, artifacts, deliverables, views, while typical PM frameworks'have around project-related documents as their outputs.
 
-Summarising this real quick:- TOGAF is for long-term strategic planning, and IT alignment with the business. PM Frameworks deal with the "tactical" elements of Individual Project Executions.
+</br>
 
+I'll summarise this real quick:-
 
+***TOGAF is for long-term strategic planning and IT alignment with the business. PM Frameworks deal with the "tactical" elements --> the individual project executions.***
 
-### Key Objectives we're looking at:-
+</br>
 
- - TOGAF aligns IT strategy with business goals.
+### What Benefits does TOGAF bring to the table?
 
-- It improves process efficiency and optimizes resource usage.
+ - TOGAF aligns IT strategy with business goals
+
+- Improvises on efficiency of existing processes/ systems & optimizes on resource usage --> maximises returns on IT investments
   
-- Establishes a common foundational understanding for tech and non-tech stakeholders.
+- Common foundational understanding for stakeholders --> Tech and Non-Tech, alike
   
--  Sets governance structures to oversee implementations and ensure regulatory compliance.
+- Setting up Governance Structures to oversee implementations + Ensure regulatory compliance
   
--  Can be adapted to specific organizational needs.
+-  Can be adapted to specific organizational needs. (Adaptability to org-specific scenarios👍)
   
-- Ensures well-managed plans and roadmaps for transitions.
+- Helps outline a well-managed transition plan / roadmap for future growth
   
-- Evaluates the risk associated with IT investments, assessing feasibility and guiding decision-making.
+- Evaluates/ Assesses risks, weighs it's impact & gauges feasability
