@@ -32,7 +32,7 @@ And why did I focus on Enterprise Architecture?
 
 I feel it's a comprehensive and a "structured" framework for aligning IT strategy with business goals. EA allows for a *holistic* view of the entire Organisation's processes, systems and tech infrastructure. 
 
---> This is *critical towards decision-making and "strategic" planning*. It optimises on current operations, but also
+--> This is *critical towards decision-making and "strategic" planning*. It optimises on my current operational workflows, but also helps incorporate new technologies, such that my organisation stays agile to evolving requirements.  This means a clear roadmap for future growth too👍
 
 
 </br>
