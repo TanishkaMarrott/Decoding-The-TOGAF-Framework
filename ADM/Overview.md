@@ -1,9 +1,8 @@
- ## ADM - "The Heart" of TOGAF 
+ ## ADM - "The Heart of TOGAF"
 
 Stands for Architectural Development Method
 
---> ADM gives us a structured, step-by-step approach to developing & managing enterprise architecture.
-
+--> ADM gives us a structured, step-by-step approach to develop & manage enterprise architecture.
 
 </br>
 
@@ -32,10 +31,21 @@ ADM comprises 8 phases:-
 
 **--> Phase A - Architecture Vision:-** 
 
-- This phase involves defining the high-level vision of the  
+- Define the high-level architectural vision
+- Request for Architecture Work issued by the sponsors
+- Seeking Approval from stakeholders
 
+</br>
 
---> Phase B - Business Architecture:- Aligning the business processes with the strategic goals we're looking at
+> What does this mean?
+>
+> We're outlining the high-level vision for the architecture, This vision should align with the business goals. This provides "clear drection" for us to proceed with the later phases of the architecture. During this phase, the sponsors issue "Request of Architecture Work" -- to formally initate the process of architectural development. Also, stakeholder buy-in and support --> their approval is sought to ensure we've got the support of relevant parties
+
+</br>
+
+**--> Phase B - Business Architecture:-** 
+
+Aligning the business processes with the strategic goals we're looking at
 
 Phase C :- Information Systems Architecture:- Comprises the Data and Application Architecture part, 1--> An efficient data management and governance part plus ensuring the application deployment, integrations is in lines with the business objectives
 
