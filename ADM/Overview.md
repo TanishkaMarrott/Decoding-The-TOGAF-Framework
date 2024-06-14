@@ -85,10 +85,17 @@ Identifying the gaps/ inefficiences in the current Business Architecture, analys
 
 4 --> Having a detailed implementation plan/ action plan laid out:-
 
-This means having a detailed roadmap in place to move from the Current Architecture to the Desired/ Target Architecture. Making sure we're aligning the business architecture with the Data, Application and Technology Architecture.
+</br>
+
+> This means having a detailed roadmap in place to move from the Current Architecture to the Desired/ Target Architecture. Making sure we're aligning the business architecture with the Data, Application and Technology Architecture.
+>
+> Plus, sharing the business architecture plan with the Stakeholders for a "clear communication"
+
+</br>
 
 
-Phase C :- Information Systems Architecture:- Comprises the Data and Application Architecture part, 1--> An efficient data management and governance part plus ensuring the application deployment, integrations is in lines with the business objectives
+
+Phase C :- Information Systems Architecture:- Comprises the Data and Application Architecture part, 1--> An efficient data management and governance part plus ensuring the application deployment & its integrations support and align with with the business objectives
 
 Phase D :- Technology Architecture:- Robust infrastructure to support all of our processes --> the servers, networking , hardware to "sustain" our architectures
 
