@@ -69,6 +69,24 @@ We're defining the operations in an organisation, while focusing on --> Business
 
 </br>
 
+Key Activities that're a part of Phase B :-
+
+1 --> Developing a Baseline Business Architecture:- 
+
+We're evaluating/ assessing the current business processes, org structure, roles and capabilities. Plus, getting it documented, (It'll serve as a baseline or reference point for comparison with the target architecture)
+
+2 --> Defining a Target Business Architecture:- 
+
+We'll then establish a vision for the desired future state of the Business Architecture; and identify the capabilities/ competencies needed to achieve it
+
+3 --> Gap Analysis :- 
+
+Identifying the gaps/ inefficiences in the current Business Architecture, analysing the differences. Also, determining which gaps need to be addressed on priority
+
+4 --> Having a detailed implementation plan/ action plan laid out:-
+
+This means having a detailed roadmap in place to move from the Current Architecture to the Desired/ Target Architecture. Making sure we're aligning the business architecture with the data, application and Technology Architecture.
+
 Phase C :- Information Systems Architecture:- Comprises the Data and Application Architecture part, 1--> An efficient data management and governance part plus ensuring the application deployment, integrations is in lines with the business objectives
 
 Phase D :- Technology Architecture:- Robust infrastructure to support all of our processes --> the servers, networking , hardware to "sustain" our architectures
