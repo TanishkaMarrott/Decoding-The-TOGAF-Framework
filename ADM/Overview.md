@@ -45,7 +45,29 @@ ADM comprises 8 phases:-
 
 **--> Phase B - Business Architecture:-** 
 
-Aligning the business processes with the strategic goals we're looking at
+We're defining the operations in an organisation, while focusing on --> Business processes, org structure, roles and "capabilities"
+
+</br>
+
+> I'll breakdown the jargons we've used -->
+> 
+> Business Processes :- Core activities that produce "value" for the organisation. They define how tasks are carried out to achieve business goals.
+>
+> Org. Structure :- Hierarchy and Relationships between departments, teams etc
+>
+> Capabilities:- Abilities slash competencies required to deliver successful projects
+>
+> KPIs :- These are the metrics to measure the performance - to "quantify" the success of business activities
+
+</br>
+
+> For those who're new to the business terminology:-
+> 
+> What exactly is the difference between business processes, goals and objectives?
+>
+> By business processes, we mean the "activities" performed to produce value --> drive the organisation towards a streamlined business growth. Business goals, on the other hand, refer to the "aims" that an organisation strives to achieve; and this _guides_ an organisation's activities & priorities 👍
+
+</br>
 
 Phase C :- Information Systems Architecture:- Comprises the Data and Application Architecture part, 1--> An efficient data management and governance part plus ensuring the application deployment, integrations is in lines with the business objectives
 
