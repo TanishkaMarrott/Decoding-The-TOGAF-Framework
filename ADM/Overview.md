@@ -117,21 +117,41 @@ Focus :- Describing the Data Model, Emphasis is on Data Management & Governance 
 
 > 💡 Intent is to ensure the quality, security and accessibility of Data --> This means having strong & robust Data Governance Policies and procedures to control the flow of data
 
-<.br>
+</br>
 
 Key Activities that encompass this phase:-
 
-1 --> Define what we call a "Baseline Architecture", That's through analysing the current state of data --> the data sources, structure, models & flow of data
+1 --> We'd first define what's called a "Baseline Architecture", That's through analysing the current state of data --> the data sources, structure, models & flow of data
 
-2 --> Develop the vision of the target data architecture - We'd be developing physical and logical data models, have some data flow diagrams created 
+2 --> Next, develop the vision of the target data architecture - We'd be developing physical and logical data models, have some data flow diagrams created 
 
 3 --> Identify gaps, from a data standpoint,  prioritise changes considering 1 --> Feasibility of changes, and 2 --> Impact on the business
 
-4 --> We'd then have to involve relevant stakeholders within the data domain, keeping them informed, seeking their fromal approval (We need to ensure senior leadership buy-in and support at every stage...)
+4 --> We'd then have to involve relevant stakeholders within the data domain, keeping them informed, seeking their formal approval (We need to ensure senior leadership buy-in and support at every stage...)
 
-5 --> Data Governance, The core of this, We need to define and implement Data Governance Policies, --> procedures around data quality, consistency and security
+5 --> Data Governance --> The core of DA, We need to define and implement Data Governance Policies, --> procedures around data quality, consistency and security
 
-6 --> And Best practices, around 
+6 --> Plus, establishing best practices around data --> Data Management. Specifically, practices around data storage, retrieval and maintenance
+
+</br>
+
+> Importance of Data Architecture:-
+>
+> Point 1 --> The data management practices must _support & align_ with the organisation's strategic objectives   
+> Point 2 --> We need to establish some standards for data quality, consistency --> Make sure the data is accurate, clean and "transparent" --> accessible to all   
+> Point 3 --> Making sure there's an efficient utilisation of data sources at hand (Answers the question - "Do we have any scope for improvement for our current data management practices?)     
+> Point 4 --> Ensuring we're compliant with regulatory standards (From a data protection standpoint)   
+
+</br>
+
+Now, let's move on to the Application Architecture
+
+> What do I mean by "Application Architecture"?
+>
+> This was a term new to me as well, when I started out
+
+
+
 
 Phase D :- Technology Architecture:- Robust infrastructure to support all of our processes --> the servers, networking , hardware to "sustain" our architectures
 
