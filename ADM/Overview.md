@@ -94,8 +94,44 @@ Identifying the gaps/ inefficiences in the current Business Architecture, analys
 </br>
 
 
+**--> Phase C - Information Systems Architecture:-** 
 
-Phase C :- Information Systems Architecture:- Comprises the Data and Application Architecture part, 1--> An efficient data management and governance part plus ensuring the application deployment & its integrations support and align with with the business objectives
+- Comprises both Data and Application Architecture aspects, sequence doesn't matter through
+
+</br>
+
+> Flow of activities in the BDAT phases, is pretty much predictable.
+>
+> We'd first start with defining the baseline architecture; Then, develop the target architectures. Perform a gap analysis, to analyse the differences between the reference and target architectures. And accordingly, we'd build out a detailed implementation plan - a roadmap to provide strategic direction to the activities plus setting their priorities. These need to be in lines with the "overarching" objectives of the organisation.
+> 
+> Plus, incorporate some stakeholder management - communicating the plans to ensure their needs are catered to
+> Documentation, for a crystal-clear documentation
+
+</br>
+
+Data Architecture:-
+
+Focus :- Describing the Data Model, Emphasis is on Data Management & Governance here- ensuring it supports and aligns well with the overall business and IT infrastructure.
+
+</br>
+
+> 💡 Intent is to ensure the quality, security and accessibility of Data --> This means having strong & robust Data Governance Policies and procedures to control the flow of data
+
+<.br>
+
+Key Activities that encompass this phase:-
+
+1 --> Define what we call a "Baseline Architecture", That's through analysing the current state of data --> the data sources, structure, models & flow of data
+
+2 --> Develop the vision of the target data architecture - We'd be developing physical and logical data models, have some data flow diagrams created 
+
+3 --> Identify gaps, from a data standpoint,  prioritise changes considering 1 --> Feasibility of changes, and 2 --> Impact on the business
+
+4 --> We'd then have to involve relevant stakeholders within the data domain, keeping them informed, seeking their fromal approval (We need to ensure senior leadership buy-in and support at every stage...)
+
+5 --> Data Governance, The core of this, We need to define and implement Data Governance Policies, --> procedures around data quality, consistency and security
+
+6 --> And Best practices, around 
 
 Phase D :- Technology Architecture:- Robust infrastructure to support all of our processes --> the servers, networking , hardware to "sustain" our architectures
 
