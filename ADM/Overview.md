@@ -137,18 +137,20 @@ Key Activities that encompass this phase:-
 
 > Importance of Data Architecture:-
 >
-> Point 1 --> The data management practices must _support & align_ with the organisation's strategic objectives   
-> Point 2 --> We need to establish some standards for data quality, consistency --> Make sure the data is accurate, clean and "transparent" --> accessible to all   
-> Point 3 --> Making sure there's an efficient utilisation of data sources at hand (Answers the question - "Do we have any scope for improvement for our current data management practices?)     
-> Point 4 --> Ensuring we're compliant with regulatory standards (From a data protection standpoint)   
+> --> The data management practices must _support & align_ with the organisation's strategic objectives   
+>  --> We need to establish some standards for data quality, consistency --> Make sure the data is accurate, clean and "transparent" --> accessible to all   
+> --> Making sure there's an efficient utilisation of data sources at hand (Answers the question - "Do we have any scope for improvement for our current data management practices?)     
+> --> Ensuring we're compliant with regulatory standards (From a data protection standpoint)   
 
 </br>
 
 Now, let's move on to the Application Architecture
 
-> What do I mean by "Application Architecture"?
+</br>
+
+> What do we mean by "Application Architecture"?
 >
-> This was a term new to me as well, when I started out
+> Here, we'd be developing architecture of application systems - "blueprints"
 
 
 
