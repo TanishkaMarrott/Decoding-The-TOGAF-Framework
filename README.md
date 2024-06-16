@@ -1,33 +1,35 @@
 # Decoding the TOGAF Framework
 
-This repository is dedicated towards chronicling my entire journey into Enterprise Architecture, more so TOGAF. 
+This repository is dedicated towards chronicling my entire journey into Enterprise Architecture - Specifically, the TOGAF Framework
 
-Here, I document my learning, share some insights I find worth-while,  from a practical standpoint. 
+Here, I document my learning, share some insights I find worth-while,  more so from a practical standpoint. 
 --> Plus, reflect on the concepts I feel are integral to mastering TOGAF. 
 
-Feel free to explore and contribute to this evolving repository :)
+Your insights and additions are most welcome! :)
+
 
 
 ## Setting the stage
 
 </br>
 
-> I feel it's crucial to first understand what exactly do we mean by Enterprise Architecture
+> I feel it's crucial to first understand what we mean by Enterprise Architecture
 
 </br>
 
---> An enterprise is a collection of Organisations with some Shared Objectives, They have diverse functions, yet *some shared, unified goals*
+--> An enterprise is a collection of organisations with some shared objectives --> They might be diverse, yet they've got *some shared, unified goals*
 
---> There come's the next term, Architecture.  It's a structure of components, their inter-relationships, the principles and guidelines that'll govern the design/evolution of our architectures
-
-</br>
-
-> TOGAF - isn't a monolithic manual, it's something more structured and phased out... this means it could either be used like a scaffolding, or maybe something that's pretty much tailored to your organisation's specific needs
+--> There come's the next term, Architecture. It's a structure of components, their inter-relationships, the principles and guidelines that'll govern the design/evolution of our architectures
 
 </br>
 
-This means it comprises fundamental concepts (ADM, Enterprise continuum) (More on this subsequently) , to tools, frameworks, best practices , proven methodologies that have actually been tried and tested . 
+> TOGAF - isn't a monolithic manual... it's something way more structured and phased out... This means it could either be used like a scaffolding, or maybe something that could be tailored to your organisation's specific needs
 
+</br>
+
+This means it comprises fundamental concepts (ADM, Enterprise continuum) (More on this subsequently) , to tools, frameworks, best practices , proven methodologies that have actually been tried-and-tested. 
+
+</br>
 
 ## Why did I focus on Enterprise Architecture?
 
@@ -38,7 +40,7 @@ I feel it's a comprehensive and a "structured" framework for aligning IT strateg
 
 </br>
 
-> At the end of the day, it's about ensuring we're strategically aligning our technology with business objectives.
+> At the end of the day, it's about aligning technology with the core business objectives.
 
 </br>
 
