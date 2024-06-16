@@ -2,7 +2,7 @@
 
 I've dedicated this repository towards chronicling my entire journey into Enterprise Architecture - Specifically, the TOGAF Framework
 
-Here, I document my learning, share some insights I find worth-while,  more so from a practical standpoint. 
+--> Document my learning, share some insights I find worth-while,  more so from a practical standpoint. 
 --> Plus, reflect on the concepts I feel are integral to mastering TOGAF. 
 
 Your insights and additions are most welcome! :)
