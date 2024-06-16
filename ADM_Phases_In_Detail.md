@@ -193,7 +193,12 @@ However, capturing the sequence in brief:-
 
 
 
-Phase E :- Opportunites and Solutions:- Evaluate and assess risks associated with the IT investments
+**-->Phase E - Opportunites and Solutions:-** 
+
+Evaluate and assess risks associated with the IT investments
+
+
+
 
 Phase F :- Migration Planning:- Create and design detailed plans with regards to the implementation and migration
 
