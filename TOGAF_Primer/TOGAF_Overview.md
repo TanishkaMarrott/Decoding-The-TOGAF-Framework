@@ -2,13 +2,11 @@
 
 --> A well-structured framework for developing, managing & governing enterprise architecture.
 
-</br>
-
 ## How is TOGAF different from other Project Management Frameworks?
 
 </br>
 
-> Okay, so the TOGAF framework is disticnt from the Project Management farmeworks, yet they're complementary from an organisationa; standpoint .
+> The TOGAF framework is might be distinct from typical PM frameworks, yet they're complementary from an organisational standpoint.
 
 </br>
 
