@@ -1,9 +1,16 @@
-## Quick Overview of TOGAF
+## TOGAF Overview
 
-TOGAF (The Open Group Architecture Framework): It's actually a comprehensive framework for developing, managing plus governing enterprise architecture.
+--> A well-structured framework for developing, managing & governing enterprise architecture.
 
-### How is TOGAF different from other Project Management Frameworks?
-Okay, so the TOGAF framework is disticnt from the Project Management farmeworks, yet they're complementary from an organisationa; standpoint .
+</br>
+
+## How is TOGAF different from other Project Management Frameworks?
+
+</br>
+
+> Okay, so the TOGAF framework is disticnt from the Project Management farmeworks, yet they're complementary from an organisationa; standpoint .
+
+</br>
 
 The Scope  + The Strategic Alignment Aspects 
 
@@ -12,15 +19,15 @@ It's more around designing, planning, implementing , governing EA.
 
 While PM frameworks, are more geared towards the typical lifecycle processes centred around the delivery of projects, Initiation, Planning, monitoring, controlling, closing a project ---> within the scope, within timelines, within the budget, ensuring appropraite quality standards and timeliness
 
-> So TOGAF is something around the "overarching" Enterprise Architecture.
-
 The framework components too are different --> ADM, Enterprise Continuum. We'll discuss these subsequently, as we dive deeper. 
 
 Also, TOGAF's outputs describe various aspects of an architecture, like artifacts, building blocks, views, while typical PM frameworks' outputs are centred around project-documents
 
-Summarising this real quick:- TOGAF is for long-term strategic planning, and IT alignment with the business. PM Frameworks deal with the "tactical" elements of Individual Project Executions.
+</br>
 
+> Summarising this real quick:- TOGAF is for long-term strategic planning, and IT alignment with the business. PM Frameworks deal with the "tactical" elements of Individual Project Executions.
 
+</br>
 
 ### Key Objectives we're looking at:-
 
@@ -39,9 +46,9 @@ Summarising this real quick:- TOGAF is for long-term strategic planning, and IT 
 - Evaluates the risk associated with IT investments, assessing feasibility and guiding decision-making.
 
 
-## Four Main Domains within EA as defined by TOGAF
-
 </br>
+
+## Four Main Domains within EA as defined by TOGAF
 
 ### 1 --> Business Architecture:-
 
