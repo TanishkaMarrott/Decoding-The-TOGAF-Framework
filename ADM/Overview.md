@@ -150,30 +150,48 @@ Now, let's move on to the Application Architecture
 
 > What do we mean by "Application Architecture"?
 >
-> This means "developing the blueprints" --> Developing the applications, their interactions, their integrations + their relationships to the core business processes
+> It means "developing the application blueprints" --> Developing the applications, their interactions, their integrations + their relationships to the core business processes
 
 </br>
 
-A generic procedure / activities involved in the application architecture phase:-
+A generic procedure, or rather a flow of activities that're a part of the application architecture phase:-
 
-💡 We'll first start assessing the  current functionality, its interactions plus it's relationship with the business objectives. (Defining our baseline application architecture)
+💡 We'll first start by assessing the current functionality, the interactions plus the relationship with the core business objectives. (Defining our baseline application architecture)
 
-💡 Next, we'll have some application component models, interaction models, data flow diagrams built -- developing the "target application architecture"
+💡 Next, we'll have some application component models, interaction models, and data flow diagrams created -- "developing the target application architecture" - our desired application architecture
 
-💡 A quick Gap Analysis --> Identify and prioritise the gaps (which of them needs to be addressed first?)  
+💡 A quick gap analysis --> Figure out and prioritise the gaps (considering the feasibility and impact on business) 
 
-💡Typical Output of this phase - The Application Architecture Roadmap --> An implementation plan guiding the transition. 
+💡 Build out "The Application Architecture Roadmap" --> An implementation plan guiding the transition. 
 
-💡 Stakeholder Involvement :- Yes, this is absolutely necessary --> Involve relevant stakeholders as necessary, seek their buy-in, secure their appoval, ensure their concerns have been addressed. 👍
+💡 Stakeholder Involvement :- Yes, this is absolutely necessary --> Need to involve relevant stakeholders as necessary, seek their buy-in, secure their appoval, and ensure their concerns have been addressed. 👍
 
-💡 Governance + Management:-       
-1 --> We need to define plus implements policies around governance --> Ensuring application quality, consistency and security
+💡 Governance + Management:-     
+  
+1 --> We need to define plus implement policies around governance --> Ensuring application quality, consistency and security.
 
-2 --> Plus, establishing some best practices around application development, deployment and maintenance (Needless to say)
+2 --> Plus, establish some best practices around application development, deployment and maintenance (Needless to say)
+
+</br>
 
 
+**--> Phase D - Technology Architecture:-** 
 
-Phase D :- Technology Architecture:- Robust infrastructure to support all of our processes --> the servers, networking , hardware to "sustain" our architectures
+</br>
+
+> Key intent here is having a "robust infrastructure" to support all of our processes --> the servers, networking & hardware should be able  to "sustain" our architectures
+
+</br>
+
+I wouldn't be detailing out the process again. This phase too shares similarity in terms of the processes with the previous EA phases.
+
+However, capturing the sequence in brief:-
+
+➡️ Starting out, we'd be assessing the current infrastructure, hardware and networking components (Our Baseline). Then, creating some infarstructure models, network diagrams (the desired state of the architecture). Analysing the differences, and prioritising the gaps. Next, detailing out an action plan for transition, Involving the stakeholders (the one's who're relevant for this phase) , seeking their inputs and ensuring their buy-in (Crucial). Plus, setting up governance and management practices. 
+
+</br>
+
+
 
 Phase E :- Opportunites and Solutions:- Evaluate and assess risks associated with the IT investments
 
