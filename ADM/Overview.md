@@ -150,8 +150,26 @@ Now, let's move on to the Application Architecture
 
 > What do we mean by "Application Architecture"?
 >
-> Here, we'd be developing architecture of application systems - "blueprints"
+> This means "developing the blueprints" --> Developing the applications, their interactions, their integrations + their relationships to the core business processes
 
+</br>
+
+A generic procedure / activities involved in the application architecture phase:-
+
+💡 We'll first start assessing the  current functionality, its interactions plus it's relationship with the business objectives. (Defining our baseline application architecture)
+
+💡 Next, we'll have some application component models, interaction models, data flow diagrams built -- developing the "target application architecture"
+
+💡 A quick Gap Analysis --> Identify and prioritise the gaps (which of them needs to be addressed first?)  
+
+💡Typical Output of this phase - The Application Architecture Roadmap --> An implementation plan guiding the transition. 
+
+💡 Stakeholder Involvement :- Yes, this is absolutely necessary --> Involve relevant stakeholders as necessary, seek their buy-in, secure their appoval, ensure their concerns have been addressed. 👍
+
+💡 Governance + Management:-       
+1 --> We need to define plus implements policies around governance --> Ensuring application quality, consistency and security
+
+2 --> Plus, establishing some best practices around application development, deployment and maintenance (Needless to say)
 
 
 
