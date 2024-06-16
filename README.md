@@ -1,6 +1,6 @@
 # Decoding the TOGAF Framework
 
-This repository is dedicated towards chronicling my entire journey into Enterprise Architecture - Specifically, the TOGAF Framework
+'ve dedicated this repository towards chronicling my entire journey into Enterprise Architecture - Specifically, the TOGAF Framework
 
 Here, I document my learning, share some insights I find worth-while,  more so from a practical standpoint. 
 --> Plus, reflect on the concepts I feel are integral to mastering TOGAF. 
