@@ -6,9 +6,9 @@ Stands for Architectural Development Method
 
 </br>
 
-> ADM is an iterative model / a cycle. We revisit and refine the architecture in each cycle, This means we're adaptable to dynamic business scanerios.
+> ADM is an iterative model / a cycle. We'd revisit and refine the architecture in each cycle, This means we're becoming adaptable to dynamic business scanerios.
 >
-> -->It provides us with a "holistic" methodology for designing, planning, implementing & governing EA. 👍
+> --> ADM provides us with a "holistic" methodology to designing, planning, implementing & governing EA. 👍
 
 </br>
 
@@ -17,29 +17,30 @@ ADM comprises 8 phases:-
 **--> Preliminary Phase:-**
 
 - We're establishing the architecture framework and principles 
-- Setting up governance structures ( would oversee if the architectural implementation conforms with the business)
-- Plus, setting up the organisation (The Capability Part:- Organisational structure, roles & responsibilities) needed to deliver successful projects
+- Setting up some governance structures ( GS would oversee if the architectural implementation aligns with the business)
+- Plus, setting up the Organisational Capability - The Org. structure, roles & responsibilities we'd need to deliver successful projects. ( Capability Assessments )
 
 </br>
 
 > What exactly are we doing here?
 >
 > We're laying the groundwork for our architecture project
-> Once we've defined the principles, the frameworks, the scope, we've actually "laid" the foundation or set the stage for subsequent phases of the project. We're ensuring that the organisation is actually ready for the architecture development phase
+> Once we've defined the principles, the frameworks, the scope, we've  set the stage for subsequent phases of the ADM. We're ensuring that the organisation is actually ready for architectural development. 👍
 
 </br>
 
 **--> Phase A - Architecture Vision:-** 
 
-- Define the high-level architectural vision
-- Request for Architecture Work issued by the sponsors
-- Seeking Approval from stakeholders
+- Define the high-level aspiration --> The architectural vision
+- Request for Architecture Work would be issued by the sponsors (This triggers of the architectural development process)
+- Seeking Approval from stakeholders (Support from key players)
+- A clear Statement of Architectural work that would be delivered in the iteration of ADM
 
 </br>
 
 > What does this mean?
 >
-> We're outlining the high-level vision for the architecture, This vision should align with the business goals. This provides "clear drection" for us to proceed with the later phases of the architecture. During this phase, the sponsors issue "Request of Architecture Work" -- to formally initate the process of architectural development. Also, stakeholder buy-in and support --> their approval is sought to ensure we've got the support of relevant parties
+> We're outlining the high-level vision for the architecture. This vision should align with business goals. This provides "clear direction" for us to proceed with the later phases of the architecture. During this phase, the sponsors issue "Request of Architecture Work" -- to formally initate the process of architectural development. Also, stakeholder buy-in and support --> their approval is sought to ensure we've got the support of relevant parties
 
 </br>
 
