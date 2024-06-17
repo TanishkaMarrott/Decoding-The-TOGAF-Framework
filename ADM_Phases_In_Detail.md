@@ -196,10 +196,44 @@ However, capturing the sequence in brief:-
 
 **-->Phase E - Opportunites and Solutions:-** 
 
-Evaluate and assess risks associated with the IT investments
+</br>
 
+> There might be multiple possible solutions, however we need to identify "the most effective way" to implement target architectures that've been developed in the previous phases.
+>
+> -->The best bet, given the feasibility, the risks and the benefits they bring to the table
 
+</br>
 
+Let's walk through the key activities that make up Phase E:-
+
+Step 1 --> Identifying potential solutions
+A - We'd be "evaluating" potential implementation solutions that could help us achieve our target architecture
+B - Then, assess the feasibility of these solutions against technical, and financial constraints
+c - Quantify the risks that're associated with each of these implementation solutions, and develop some mitigation strategies 
+
+</br>
+
+> A quick sequence chain to illustrate this:-
+>
+> Evaluate solutions --> Assess Feasibility- both technical and financial --> Weigh in the risks/ impact and have some mitigation strategies in place 👍
+
+</br>
+
+Step2 --> Develop an Architectural Roadmap -->
+
+- Outlining the steps from the current to the target architecture. 
+- Phasing out, or rather "sequencing" the implementation projects (this means a "logical" transition)
+- Identifying dependencies between projects, making sure we're addressing them effectively
+
+Step 3 --> Having a detailed implementation and migration plan in place -->
+
+</br>
+
+> You might be wondering how an architecture roadmap is different from a implementation plan? Archiitecture roadmap give us a "high-level, strategic" overview of the initiatives that would be needed to reach our end goal - the target architecture.  This means we aren't going deep into the specifics here, howvere, we'd be outling the key projects, highlighting/ sorting out dependencies if any, marking key milestones --> giving them a generic timeline. This is intended for Senior Mangement or for stakeholders, to get a strategic path and align them with business goals
+>
+> On the other hand, an implementation plan, is a detailed out, "actionable" plan for executing projects that've been outlined in the roadmap, we're getting into the nitty-gritties of the execution aspects --> Specific projects, their tasks/ activities with their corresponding start and end dates. Plus, would be detailing out Risk Assessment and mitigation plans for each project. This is intended for immediate project managers, architecture team, folks who're actually responsible for executing this
+
+</br>
 
 Phase F :- Migration Planning:- Create and design detailed plans with regards to the implementation and migration
 
