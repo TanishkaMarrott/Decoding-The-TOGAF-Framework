@@ -231,11 +231,23 @@ Step 3 --> Having a detailed implementation and migration plan in place -->
 
 > You might be wondering how an architecture roadmap is different from a implementation plan? Archiitecture roadmap give us a "high-level, strategic" overview of the initiatives that would be needed to reach our end goal - the target architecture.  This means we aren't going deep into the specifics here, howvere, we'd be outling the key projects, highlighting/ sorting out dependencies if any, marking key milestones --> giving them a generic timeline. This is intended for Senior Mangement or for stakeholders, to get a strategic path and align them with business goals
 >
-> On the other hand, an implementation plan, is a detailed out, "actionable" plan for executing projects that've been outlined in the roadmap, we're getting into the nitty-gritties of the execution aspects --> Specific projects, their tasks/ activities with their corresponding start and end dates. Plus, would be detailing out Risk Assessment and mitigation plans for each project. This is intended for immediate project managers, architecture team, folks who're actually responsible for executing this
+> On the other hand, an implementation plan, is a detailed out, "actionable" plan for executing projects that've been outlined in the roadmap, we're getting into the nitty-gritties of the execution aspects --> Specific projects, their tasks/ activities with their corresponding start and end dates. Plus, would be detailing out Risk Assessment and mitigation plans for each project. This is intended for immediate project managers, architecture team, folks who're actually responsible for executing this...
 
 </br>
 
-Phase F :- Migration Planning:- Create and design detailed plans with regards to the implementation and migration
+Step 4 --> Every phase ends with a review with the stakeholders, Communicating plans, roadmap with the stakeholders, seeking their formal approval to proceed with the actual implementation. This ensures that our key stakeholders are supportive of the implementation plan, increasing our likelihoods of success 👍
+
+Step 5 --> Lastly, we'd perform a compliance check, to make sure everything's aligned with the overall architectural principles and standards
+
+</br>
+
+> In addition to the architectural roadmap, we've also identified the Solution Building Blocks in this phase, that represent the implementations of the architecture's functionality
+
+</br>
+
+**-->Phase F - Migration Planning:-** 
+
+Create and design detailed plans with regards to the implementation and migration
 
 Phase G :- Implementation Governance:- Govern/ Oversee the implementation, check if it conforms with the regulatory standards
 
