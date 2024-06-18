@@ -193,7 +193,6 @@ However, capturing the sequence in brief:-
 </br>
 
 
-
 **-->Phase E - Opportunites and Solutions:-** 
 
 </br>
@@ -244,6 +243,7 @@ Step 5 --> Lastly, we'd perform a compliance check, to make sure everything's al
 > In addition to the architectural roadmap, we've also identified the Solution Building Blocks in this phase, that represent the implementations of the architecture's functionality
 
 </br>
+
 
 **-->Phase F - Migration Planning:-** 
 
