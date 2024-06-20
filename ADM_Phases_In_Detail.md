@@ -205,9 +205,10 @@ However, capturing the sequence in brief:-
 
 Let's walk through the key activities that make up Phase E:-
 
-Step 1 --> Identifying potential solutions
-A - We'd be "evaluating" potential implementation solutions that could help us achieve our target architecture
-B - Then, assess the feasibility of these solutions against technical, and financial constraints
+Activity 1 --> Identifying potential implementation solutions + checking on its viability
+
+A - We'd start with "evaluating" potential implementation solutions that could help us achieve our target architecture
+B - Then, "assess the feasibility" of these solutions against technical and financial factors
 c - Quantify the risks that're associated with each of these implementation solutions, and develop some mitigation strategies 
 
 </br>
@@ -218,25 +219,15 @@ c - Quantify the risks that're associated with each of these implementation solu
 
 </br>
 
-Step2 --> Develop an Architectural Roadmap -->
+Activity 2 --> Having an Architectural Roadmap in place-->
 
 - Outlining the steps from the current to the target architecture. 
-- Phasing out, or rather "sequencing" the implementation projects (this means a "logical" transition)
-- Identifying dependencies between projects, making sure we're addressing them effectively
+- Phasing out, or rather "sequencing" out the implementation projects (--> This makes sure we're having a "logical transition" )
+- Identifying inetr-dependencies between projects, making sure we're addressing them effectively
 
-Step 3 --> Having a detailed implementation and migration plan in place -->
+Activity 3 --> Every phase ends with a review with the stakeholders, Communicating plans, roadmap with the stakeholders, seeking their formal approval to proceed with the actual implementation. This ensures that our key stakeholders are supportive of the implementation plan, increasing our likelihoods of success 👍
 
-</br>
-
-> You might be wondering how an architecture roadmap is different from a implementation plan? Archiitecture roadmap give us a "high-level, strategic" overview of the initiatives that would be needed to reach our end goal - the target architecture.  This means we aren't going deep into the specifics here, howvere, we'd be outling the key projects, highlighting/ sorting out dependencies if any, marking key milestones --> giving them a generic timeline. This is intended for Senior Mangement or for stakeholders, to get a strategic path and align them with business goals
->
-> On the other hand, an implementation plan, is a detailed out, "actionable" plan for executing projects that've been outlined in the roadmap, we're getting into the nitty-gritties of the execution aspects --> Specific projects, their tasks/ activities with their corresponding start and end dates. Plus, would be detailing out Risk Assessment and mitigation plans for each project. This is intended for immediate project managers, architecture team, folks who're actually responsible for executing this...
-
-</br>
-
-Step 4 --> Every phase ends with a review with the stakeholders, Communicating plans, roadmap with the stakeholders, seeking their formal approval to proceed with the actual implementation. This ensures that our key stakeholders are supportive of the implementation plan, increasing our likelihoods of success 👍
-
-Step 5 --> Lastly, we'd perform a compliance check, to make sure everything's aligned with the overall architectural principles and standards
+Activity 4 --> Lastly, we'd perform a compliance check, to make sure everything's aligned with the overall architectural principles and standards
 
 </br>
 
@@ -244,14 +235,64 @@ Step 5 --> Lastly, we'd perform a compliance check, to make sure everything's al
 
 </br>
 
+Moving on - Phase F
+
 
 **-->Phase F - Migration Planning:-** 
 
-Create and design detailed plans with regards to the implementation and migration
+Once, we've developed an Architectural Roadmap, we'll refine & finalise it in this phase:-
 
-Phase G :- Implementation Governance:- Govern/ Oversee the implementation, check if it conforms with the regulatory standards
+We'd be create a "detailed" implementation and application plan , where we'd be going into the specifics
 
-Phase H :- Change Management:- Chnage management must be smooth, well-managed with appropriate roadmaps, such that we're evolving with dynamically changing business requirements.
+1 ---> Resource allocation -- How would you be apportioning resources amongst projects (technology, personnel, budget etc)
+
+2 --> Creating timelines -- Specifics into start / end-dates of projects, Key milestones within projects
+
+3 --> Having some detailed risk assessments and mitigation strategies in place for each of pur projects.
+
+4 --> Consolidate smaller projects into larger ones --> Such that we're streamlining execution by consolidating fragments
+
+5 --> We'd be developing something called "transition architectures". --> intreim architectures during our progression from current state to the desired architectural state.
+
+6 --> A formal approval from the Stakeholders on the plan, and we're good to go! 👍
+
+</br>
+
+> You might be wondering how an architecture roadmap is different from a implementation plan... Architecture roadmap give us a "high-level, strategic" overview of the initiatives that would be needed to reach our end goal - the target architecture.  This means we aren't going deep into the specifics here, howvere, we'd be outling the key projects, highlighting/ sorting out dependencies if any, marking key milestones --> giving them a generic timeline. This is intended for Senior Management or for stakeholders, to get a strategic path and align them with business goals
+>
+> On the other hand, an implementation plan, is a detailed out, "actionable" plan for executing projects that've been outlined in the roadmap, we're getting into the nitty-gritties of the execution aspects --> Specific projects, their tasks/ activities with their corresponding start and end dates. Plus, would be detailing out Risk Assessment and mitigation plans for each project. This is intended for immediate project managers, architecture team, folks who're actually responsible for executing this...
+
+</br>
+
+
+**-->Phase G :- Implementation Governance:-**
+
+As the name suggests, this is more around the oversight of the implementation of the architecture if it conforms with the architectural design + ensures alignment with the business
+
+</br>
+
+> Just a quick heads-up here:- You're "setting up" Governance Structures, or establishing architectural principles, forming commitees/ boards for overseeing governance, in the Preliminary phase, This is crucial. --> Ensuring these frameworks are "applied", "implemented" enforced" during the architectural implementation, is a part of Phase G. 
+
+</br>
+
+1 --> We'd be utilising governance structures, that've been established in the preliminary phase, to oversee implementations.
+
+2 --> Continuously monitoring projects, ensuring that they adhere to standards and the architectural principles that've been laid down --> Compliance checks
+
+3 --> QA processes to make sure the deliverables meet quality standards
+
+4 --> Managing change to the design. Control and approve deviations.
+
+</br>
+
+> There would be an element of Risk Management and Stakeholder Management in every phase. However, the scope and the focus area differs, 
+
+</br>
+
+
+
+
+Phase H :- Change Management:- Change management must be smooth, well-managed with appropriate roadmaps, such that we're evolving with dynamically changing business requirements.
 
 - Requirements Management would be an ongoing process throughout the cycle
 
