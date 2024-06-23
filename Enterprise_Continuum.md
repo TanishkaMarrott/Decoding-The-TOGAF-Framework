@@ -17,9 +17,13 @@ On the basis of :- Varying levels of abstraction / specialisation
 
 </br>
 
-> Architectural continuum represents a gradation / continuous refinement of architectural elements from generic to organisation-specific elements. While, the Solutions Continuum help us understand the advancement of implementations from generic solutions to specific implementations.
+> Both strike a common note-            
+> A  "gradation" / refinement of architectural elements --> Moving from Generic Architectures to something way more specific --> Organisation-specific elements. 
 
-Layers:- Will remain identical for both of them
+
+**Layers**
+
+Will remain identical for both of continuums
 
 1 --> Foundational :-  More like a Universal Scaffolding --> basic, fundamental building blocks that form a base for more specific structures --> DBMS, OS, netwroking services
 
