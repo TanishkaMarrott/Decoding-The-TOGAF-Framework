@@ -1,18 +1,21 @@
 # Enterprise Continuum
 
---> Core concept within TOGAF. 
+--> Core concept within TOGAF 
 
-- Enterprise Continuum serves as :-  "A framework for categorising different architectural artifacts & solutions"
-- Categorisation on the basis of :- Varying levels of abstraction / specialisation
+In simple words :-  "A categorisation Framework for artifacts & solutions"
+On the basis of :- Varying levels of abstraction / specialisation
   
-What're  Key Elements?
+**Key Elements**
 
-1. Architecture Continuum
-2. Solutions Continuum
+--> Architecture Continuum - Collection of Architectural Building Blocks. They're re-usable across projects
 
+--> Solutions Continuum - Collection of the "actual implementations of the functionality that's been represented by the ABBs". These are the Solution Building Blocks (SBBS)
 
-Architecture Continuum is a collection of architectural building blocks (ABBs), the're reusable across different projects/ teams
-While Solutions continuum comprises the collection of their actual implementations (SBBs or the tangibles). They're actual implementations of what's represented by the Architectural Continuum
+</br>
+
+> Intangible (ABBs) --> Something tangible (SBBs)
+
+</br>
 
 > Architectural continuum represents a gradation / continuous refinement of architectural elements from generic to organisation-specific elements. While, the Solutions Continuum help us understand the advancement of implementations from generic solutions to specific implementations.
 
