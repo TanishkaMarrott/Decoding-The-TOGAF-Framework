@@ -324,7 +324,39 @@ We'd  start off with identifying / classifying the changes --> Plus, we'd be eva
 
 </br>
 
-Our ongoing phase :-
+**--> The ongoing phase :-The requirements management phase**
+
+</br>
+
+> How does this look like? Here's a quick chain to understand the workflow
+
+</br>
+
+We'd first start with collecting / gathering the requirements    
+↓   
+Develop a requirements baseline  - This'll serve as a reference point     
+↓      
+Ensure they've been agreed upon by the stakeholders     
+↓    
+Now that you've got the reference point, prioritize them (We'd be addressing the higher ones first to maximise value delivered)       
+↓    
+There might be changes springing up (We must have a change management process in place)      
+
+- Evaluate the impact   
+- Review    
+- Get them approved   
+↓     
+Make sure the requirements are traceable (This basically means making sure they're tied to some architectural deliverables, design decisions or some outcomes)   
+↓   
+Validate the requirements (Should be Complete, clear, and achievable)   
+↓   
+Monitor and Send out updates on their progress   
+
+
+
+
+
+
 
 
 
