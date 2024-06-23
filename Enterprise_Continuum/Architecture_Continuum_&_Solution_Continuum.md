@@ -1,11 +1,11 @@
 # Enterprise Continuum
 
-Core concept within TOGAF. 
+--> Core concept within TOGAF. 
 
-- Framework for categorising different architectural artifacts and solutions
-- According to varying levels of abstraction or specialisation
+- Enterprise Continuum serves as :-  "A framework for categorising different architectural artifacts & solutions"
+- Categorisation on the basis of :- Varying levels of abstraction / specialisation
   
-Key Elements of an Enterprise Continuum:-
+What're  Key Elements?
 
 1. Architecture Continuum
 2. Solutions Continuum
