@@ -223,7 +223,7 @@ Activity 2 --> Having an Architectural Roadmap in place-->
 
 - Outlining the steps from the current to the target architecture. 
 - Phasing out, or rather "sequencing" out the implementation projects (--> This makes sure we're having a "logical transition" )
-- Identifying inetr-dependencies between projects, making sure we're addressing them effectively
+- Identifying inter-dependencies between projects, making sure we're addressing them effectively
 
 Activity 3 --> Every phase ends with a review with the stakeholders, Communicating plans, roadmap with the stakeholders, seeking their formal approval to proceed with the actual implementation. This ensures that our key stakeholders are supportive of the implementation plan, increasing our likelihoods of success 👍
 
@@ -235,14 +235,14 @@ Activity 4 --> Lastly, we'd perform a compliance check, to make sure everything'
 
 </br>
 
-Moving on - Phase F
+Moving on to Phase F
 
 
 **-->Phase F - Migration Planning:-** 
 
 Once, we've developed an Architectural Roadmap, we'll refine & finalise it in this phase:-
 
-We'd be create a "detailed" implementation and application plan , where we'd be going into the specifics
+We'd create a "detailed" implementation plan , where we'd be going into the specifics:-
 
 1 ---> Resource allocation -- How would you be apportioning resources amongst projects (technology, personnel, budget etc)
 
@@ -283,19 +283,48 @@ As the name suggests, this is more around the oversight of the implementation of
 
 4 --> Managing change to the design. Control and approve deviations.
 
-</br>
-
-> There would be an element of Risk Management and Stakeholder Management in every phase. However, the scope and the focus area differs, 
+5 --> Also, documenting the governance process --> Making a note of the lessons learnt + the decisions made + the changes approved
 
 </br>
 
+> There would be an element of Risk Management and Stakeholder Management in every phase. 
+>
+> However, the scope and the focus area differs.
+>
+> For instance, in the initial phases of the ADM, stakeholder management would mostly be around seeking buy-in, in the middle ones, it could be around presenting potential solutions, and maybe get an approval for moving ahead with the final implementation plan, while in the later stages, it would be about communicating progress updates, making sure they understand the timelines or support requirements (if need be) & making sure their concerns have been catered to.
+>
+
+</br>
 
 
+**--> Phase H - Change Management:-** 
 
-Phase H :- Change Management:- Change management must be smooth, well-managed with appropriate roadmaps, such that we're evolving with dynamically changing business requirements.
+</br>
 
-- Requirements Management would be an ongoing process throughout the cycle
+> I had mentioned that managing change is a part of Phase G. Yet, we've got a separate phase dedicated to change management. Why is this so? This is because each phase has a distinct focus
+>
+> Phase G is about assessing changes wrt the current implementation (That "emerge" during the implementation phase).
+>
+> These are evaluated, their subsequent impact is weighed upon. The architecture board would ensure that these deviations aligns overall. And a governance process is followed to approve these formally...
+>  
+> While in Phase H, we'd be identifying changes that would need to be made to the architecture on the basis of some "triggers" --> maybe a business strategy shift, some technological advancement or could be some regulatory changes too. But the word "Post-Implementation" is really important here. making sure that my architecture "stays relevant" over time.
+>
 
+</br>
+
+How does Phase H look like?
+
+We'd  start off with identifying / classifying the changes --> Plus, we'd be evaluating the "impact" of these proposed changes on existing systems, components or stakeholders (the entire Architecture) --> Evaluate the risks it'll bring in, have some mitigation actions in place
+
+</br>
+
+> We do not want to disrupt business operations. And hence, this phase includes monitoring the implementation
+>
+> There needs to be a post-implementation review to evaluate the effectiveness of these changes that we've implemented and get them documented
+
+</br>
+
+Our ongoing phase :-
 
 
 
