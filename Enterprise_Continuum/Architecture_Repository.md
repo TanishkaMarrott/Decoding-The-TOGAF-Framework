@@ -1,7 +1,7 @@
  
 ## Tools and Techniques to manage the Enterpise Continuum Plus an in-depth analysis into the Architecture Repository
 
-Before discussing the Architecture Repository in detail, I'd like to talk a bit about about the tools and techniques that we could use for the purpose of categorisation, storage and retrieval of assets that're a part of the Enterprise Continuum
+I'd like to talk a bit about about the tools and techniques that we could use for the purpose of categorisation, storage and retrieval of assets that're a part of the Enterprise Continuum
 
 -  Architecture repository :- Key component of the EC. Serves as a storage and management system for all our artifacts.
   
