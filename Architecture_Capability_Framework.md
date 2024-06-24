@@ -1,38 +1,43 @@
 # Enterprise Capability - The Architecture Capability framework
 
+ So, what exactly is "Architecture Capability"?
+
+ Keeping it short & sweet --> The ability to develop, manage & maintain architecture (within an enterprise)
+
+ What all does it comprise? -->  Organisational structures, roles & responsibilities; and how do they fit in within an enterprise
+ [while aligning with the overarching objectives]
+
 </br>
 
-> So, what exactly is "Architecture Capability"?
->
-> Keeping it short --> The ability to develop, manage & maintain architecture (within an enterprise)
->
-> What all does it comprise? -->  Organisational structures, roles & responsibilities; and how do they fit in within an enterprise [while aligning with the overarching objectives]
+> What benefit does it bring to the table? --> The "architecture practice" becomes  --> Well-managed, defined & aligned. 👍
 
 </br>
-
-It's more around establishing "capability" within the enterprise.          
---> Architecture practice must be  "well-managed, defined and aligned with the org's business goals" 👍
-
 
 **--> Key Aspects within this Framework:-**
 
-- Organizational Structure:- By Organisational Structure, I'm referring to the arrangement of roles, responsibilities and their relationships within an organization, to support what we call "architecture practice"
+- Organizational Structure:- Arrangement of --> Roles, responsibilities and their relationships within a hierarchy
 
-   - Architecture Team : Who actually develop and maintain the Enterprise Architecture
+   - Architecture Team -         
+     Who actually develop and maintain the enterprise architecture
      
-   - Architecture Board : The governing body, that oversees the implementation of the architecture practice, and if it aligns with the business requirements.
+   - Architecture Board -            
+     The governing body -->  Oversees the architectural implementation and if it aligns with the business.
      
-   - Stakeholders:- That could refer to end-users, Business Leaders and Managers
+   - Stakeholders -         
+     That could refer to end-users, Business Leaders and Managers
 
-- Roles and Responsibilities:- Would typically be in a hierarchical format:-
+</br>
 
-   - Chief Architect: Leads the architecture vision, (His primary responsibilities ae stakeholder management, governance & strategic leadership)
+- Roles and Responsibilities:-
 
-   - Enterprise architect :- Conducting gap analysis, defining roadmaps, defining architecture models
+   - Chief Architect
+     Leads the architecture vision - Strategic Leadership 📍
+     
+   - Enterprise architect --> His role revolves around conducting gap analysis, defining roadmaps, defining architecture models
      
    - Domain architect --> Handles domain-specific architectures --> ensuring integration and inter-operability
 
-   - Solution Architect --> Designs project -specific solutions. He ensures compliance with EA
+   - Solution Architect --> Designs project-specific solutions. He ensures compliance with EA
 
 - Processes
   - ADM :- The Architectural Development Model, Heart of TOGAF, Iterative model for designing, planning, implementing and Governing Enterprise Architecture
