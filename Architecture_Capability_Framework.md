@@ -15,7 +15,9 @@
 
 **--> Key Aspects within this Framework:-**
 
-- Organizational Structure:- Arrangement of --> Roles, responsibilities and their relationships within a hierarchy
+- Organizational Structure:-
+
+  Arrangement of --> Roles + responsibilities + their relationships in a hierarchy
 
    - Architecture Team -         
      Who actually develop and maintain the enterprise architecture
