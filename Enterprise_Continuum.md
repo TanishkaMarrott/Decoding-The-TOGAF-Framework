@@ -2,10 +2,10 @@
 
 --> Core concept within TOGAF 
 
-In simple words :-  "A categorisation Framework for artifacts & solutions"
-On the basis of :- Varying levels of abstraction / specialisation
+In simple words :-  "A categorisation Framework for artifacts & solutions"              
+On the basis of:- varying levels of abstraction / specialisation
   
-**Key Elements**
+Comprises:
 
 --> Architecture Continuum - Collection of Architectural Building Blocks. They're re-usable across projects
 
@@ -13,17 +13,17 @@ On the basis of :- Varying levels of abstraction / specialisation
 
 </br>
 
-> Intangible (ABBs) --> Something tangible (SBBs)
+> Intangibles (ABBs) --> Something tangible (SBBs)
 
 </br>
 
-> Both strike a common note-            
-> A  "gradation" / refinement of architectural elements --> Moving from Generic Architectures to something way more specific --> Organisation-specific elements. 
+> Both strike a common note: They're a  "gradation" / A refinement of architectural elements --> Moving from Generic Architectures to something way more specific --> Organisation-specific elements. 
 
+</br>
 
-**Layers**
+**Layers of the continuum:-**
 
-Will remain identical for both of continuums
+Similar for both the continuums
 
 1 --> Foundational :-  More like a Universal Scaffolding --> basic, fundamental building blocks that form a base for more specific structures --> DBMS, OS, netwroking services
 
@@ -31,34 +31,36 @@ Will remain identical for both of continuums
 
 3 --> Industry-specific:- Address concerns of a specific industry like HCLS, BFSI
 
-4 --> Organisation-specific:- Custom-built applications, proprietary Business processes
+4 --> Organisation-specific:- Custom-built applications or  proprietary Business processes
 
+</br>
  
-## Tools and Techniques to manage the Enterpise Continuum Plus an in-depth analysis into the Architecture Repository
+**Architecture Repository** 
 
-I'd like to talk a bit about about the tools and techniques that we could use for the purpose of categorisation, storage and retrieval of assets that're a part of the Enterprise Continuum
+Serves as a storage & management system for all of our Architectural artifacts.
 
--  Architecture repository :- Key component of the EC. Serves as a storage and management system for all our artifacts.
-  
-  > It's more like a structured environment for storing and managing these architectural assets
+Key Components:- 
 
-  - Key Components:- 
-      - Meta-model,
-      - Governance Log,
-      - Standards Information Base,
-      - Reference Library and
-      - Capability Assesment repository
+      - Meta-model:- This would be helpful in "defining the structure, the attributes & the relationships" of the artifacts.
+      
+      - Governance Log:- Or the Governance Repository. Tracks the governance decisions/ compliance
+      
+      - Standards Information Base:- Stores standards & guidelines
+      
+      - Reference Library:- Where you'd find reference models and patterns
+      
+      - Capability Assessment repository:- For storing capability assessments and maturity models
 
-    (We'd be discussing more about this subsequently.)
 
- - We'd require some Architecture modelling tools too, that could be used for creating architectural models and diagrams. These could then be stored in the Architectural Repository, example) Archimate, IBM Rational System Architect
-   
-- Tracking versions, managing changes to the architectural artifacts too are essential. That's where Configuration Management Tools like Jira, and Azure DevOps come into the scene. 
+**Tools and techniques that're often used for managing the Enterprise Continuum:-**
 
-  > We need to ensure that updates are *consistently* applied throughout the repository
+--> Architecture modelling tools = For creating and visualising arch. models --> ArchiMate, UML 
 
-- Some Content Management System (CMS) like SharePoint, that would enable easy access to docouments and collaboration amongst the stakeholders.
-- Plus, a colloboration tool like Slack/ Confluence, for facilitating a smoother, quicker communication/ collaboration among the architecture teams,
+--> Configuration management Tools = That could be for controlling versions + managing changes --> Jira
 
-  ### Techniques:-
+--> Content management systems = Wherein you could easily manage / access documents --> Sharepoint/ Drive
+
+--> Collaboration tools = Collab. within the team --> Something like Slack, Confluence
+
+
 
