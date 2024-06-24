@@ -1,17 +1,28 @@
-# Enterprise Capability - The Architecture capability framework
+# Enterprise Capability - The Architecture Capability framework
 
-> So, what exactly is the Architecture Capability Framework? It's the ability to develop, manage, use and maintain architecture within an enterprise,
->this refers to the organisational structure, the roles, responsibilities, and how does it fit in within an enterprise, while aligning with the overarching objectives of the organisation
+</br>
 
-It's more around establishing "capability" within the enterprise, This framework will help us ensure that architecture practice within an irganisation is well-managed, defined and aligned with the org's business goals
+> So, what exactly is "Architecture Capability"?
+>
+> Keeping it short --> The ability to develop, manage & maintain architecture (within an enterprise)
+>
+> What all does it comprise? -->  Organisational structures, roles & responsibilities; and how do they fit in within an enterprise [while aligning with the overarching objectives]
 
---> Key Aspects within this Framework
+</br>
+
+It's more around establishing "capability" within the enterprise.          
+--> Architecture practice must be  "well-managed, defined and aligned with the org's business goals" 👍
+
+
+**--> Key Aspects within this Framework:-**
 
 - Organizational Structure:- By Organisational Structure, I'm referring to the arrangement of roles, responsibilities and their relationships within an organization, to support what we call "architecture practice"
 
-   - Architecture Team : The group that actually develops and maintains EA
+   - Architecture Team : Who actually develop and maintain the Enterprise Architecture
+     
    - Architecture Board : The governing body, that oversees the implementation of the architecture practice, and if it aligns with the business requirements.
-   - Stakeholders:- That could refer to End-Users, Business Leaders, and Managers
+     
+   - Stakeholders:- That could refer to end-users, Business Leaders and Managers
 
 - Roles and Responsibilities:- Would typically be in a hierarchical format:-
 
