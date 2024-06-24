@@ -6,20 +6,30 @@
 
 </br>
 
-> The TOGAF framework is might be distinct from typical PM frameworks, yet they're complementary from an organisational standpoint.
+> The TOGAF framework might be distinct from typical PM frameworks, yet they're complementary from an organisational standpoint.
 
 </br>
 
-The Scope  + The Strategic Alignment Aspects 
+The Scope  + The Strategic Alignment Aspects
 
-The scope and focus areas are different, With TOGAF , my prime focus is Enterprise Architecture, ensuring my tech is aligned with business *always*. Tech without Business alignment is similar to a train without an engine, we need some core business goals in place, before setting up our technology solutions.
-It's more around designing, planning, implementing , governing EA.
+With TOGAF , our prime focus would be Enterprise Architecture. Core intent is that the tech infra "must be aligned" with business. Tech without Business alignment is similar to a train without an engine. 
 
-While PM frameworks, are more geared towards the typical lifecycle processes centred around the delivery of projects, Initiation, Planning, monitoring, controlling, closing a project ---> within the scope, within timelines, within the budget, ensuring appropraite quality standards and timeliness
+</br>
 
-The framework components too are different --> ADM, Enterprise Continuum. We'll discuss these subsequently, as we dive deeper. 
+> We'd need some core business goals in place, before setting up our technology solutions.
+> It's more around designing, planning, implementing & governing EA.
 
-Also, TOGAF's outputs describe various aspects of an architecture, like artifacts, building blocks, views, while typical PM frameworks' outputs are centred around project-documents
+</br>
+
+PM frameworks are more geared towards the typical lifecycle processes "centred around the delivery of projects" --> Initiation, planning, monitoring, controlling, closing a project ---> within the scope & within the budget.
+
+Making sure we're delivering quality within the timelines.
+
+The framework components too are different --> ADM, Enterprise Continuum.
+
+We'll discuss these subsequently, as we dive deeper. 
+
+Also, TOGAF's outputs include artifacts, building blocks, views (Something that describes the architecture) while typical PM frameworks' outputs are project-related documents
 
 </br>
 
