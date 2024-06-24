@@ -4,7 +4,7 @@
 
  Keeping it short & sweet --> The ability to develop, manage & maintain architecture (within an enterprise)
 
- What all does it comprise? -->  Organisational structures, roles & responsibilities; and how do they fit in within an enterprise
+ What all does it comprise? -->  Organisational structures, roles & responsibilities; and how they fit in within an enterprise
  [while aligning with the overarching objectives]
 
 </br>
