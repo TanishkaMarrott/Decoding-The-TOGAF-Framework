@@ -1,19 +1,19 @@
-# Case Study 1: Implementing TOGAF in a Financial Institution
+## Case Study 1: Implementing TOGAF in a Financial Institution
 
-## Introduction
-This case study examines the application of TOGAF in a large financial institution to enhance its enterprise architecture.
+### Introduction
+This case study examines the application of TOGAF in a large XXX FinTech Firm looking at enhancing its enterprise architecture.
 
-## Background
-The financial institution was facing challenges with its IT infrastructure, including redundancy, inefficiency, and high operational costs.
+### Background
+The company was facing challenges with its IT infrastructure --> including redundancy, inefficiency and high operational costs.
 
-## Objectives
+### Objectives
 - Streamline IT operations
 - Reduce costs
 - Improve efficiency and agility
 
-## Approach
-- Conducted a preliminary phase to understand the business context and goals.
-- Applied the Architecture Development Method (ADM) to create a baseline and target architecture.
+### Approach
+- Conducted a preliminary phase to understand the business context and goals. 
+- Applied the Architecture Development Method - the ADM to create the baseline & target architectures.
 - Developed a roadmap for implementation and migration.
 
 ## Results
@@ -22,4 +22,4 @@ The financial institution was facing challenges with its IT infrastructure, incl
 - Enhanced agility to respond to business changes.
 
 ## Conclusion
-The implementation of TOGAF provided a structured approach to address the institution's challenges, resulting in significant improvements in IT operations.
+The implementation of TOGAF provided a structured approach --> Addressing the Enterprise's challenges with massive improvements in IT operations and the governance aspects. 👍
