@@ -10,9 +10,9 @@
 
 </br>
 
-The Scope  + The Strategic Alignment Aspects
+Differentiator:- The Scope  + The Strategic Alignment Aspects
 
-With TOGAF , our prime focus would be Enterprise Architecture. Core intent is that the tech infra "must be aligned" with business. Tech without Business alignment is similar to a train without an engine. 
+With TOGAF , our prime focus would be *only* Enterprise Architecture. Core intent is that the tech infra "must be aligned" with business. Tech without Business alignment is similar to a train without an engine. 
 
 </br>
 
