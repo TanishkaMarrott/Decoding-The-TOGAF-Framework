@@ -45,5 +45,5 @@ Now that we're through with the intro, let's dive deeper into individual section
 
 ## Quick Disclaimer
 
-I've captured and penned down these notes during my preparation for the TOGAF 10 Foundation Exam. And intend to reflect my personal understanding & learnings. This is NOt meant to serve as a definitive source of information :)
+I've captured and penned down these notes during my preparation for the TOGAF 10 EA Foundation Exam. And intend to reflect my personal understanding & learnings. This is NOt meant to serve as a definitive source of information :)
 
