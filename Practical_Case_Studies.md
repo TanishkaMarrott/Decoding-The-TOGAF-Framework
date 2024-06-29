@@ -1,71 +1,25 @@
-## Case Studies that might reflect Real-World Scenarios 
+# Case Study 1: Implementing TOGAF in a Financial Institution
 
-</br>
+## Introduction
+This case study examines the application of TOGAF in a large financial institution to enhance its enterprise architecture.
 
-### **Case Study 1 --> Cloud Migration for a Financial Services Company**
+## Background
+The financial institution was facing challenges with its IT infrastructure, including redundancy, inefficiency, and high operational costs.
 
-</br>
+## Objectives
+- Streamline IT operations
+- Reduce costs
+- Improve efficiency and agility
 
-**A Quick Overview:-**
+## Approach
+- Conducted a preliminary phase to understand the business context and goals.
+- Applied the Architecture Development Method (ADM) to create a baseline and target architecture.
+- Developed a roadmap for implementation and migration.
 
---> Migration of a XXX financial services company to the cloud. Core intent is to improve scalability, security and optimise on costs.
+## Results
+- Reduced IT operational costs by 20%.
+- Improved system efficiency and reduced redundancy.
+- Enhanced agility to respond to business changes.
 
-</br>
-
-**Challenge:-**
-
--->The company faced challenges with on-premises infrastructure:-
-
-   - High maintenance costs
-   - Inability to scale during peak periods
-   - Security concerns
-   - Lack of disaster recovery capabilities
-  
-</br>
-
-> (Requirements clarification. Gives us some hints on what the customer's looking for.)
-
-</br>
- 
-**Our Solution:-**
-
---> Assessment + Planning :-
-
-📌 (Crucial to understand the current state)
-
- - We went ahead with assessing the existing infrastructure
- - Next, planned the migration strategy --> The one *with minimal downtime.* 
-
-</br>
-
-**How did the Architecture design actually look like?**
-
-We designed something massively scalable and secure. 
-
---> I always recommend utilizing the AWS Well-Architected Framework --> making sure we're keeping up with the best practices.
-
-</br>
-
-Migration Execution:
-
-Migrated applications to AWS EC2 and AWS RDS.
-Implemented AWS Lambda for serverless computing needs.
-Used AWS CloudFormation for infrastructure as code.
-
-Security Enhancements:
-
-Implemented AWS IAM for secure access management.
-Used AWS Key Management Service (KMS) for encryption.
-Deployed AWS CloudTrail and AWS Config for compliance and auditing.
-Cost Optimization:
-
-Leveraged AWS Cost Explorer and Trusted Advisor for cost management.
-Implemented S3 Intelligent-Tiering for storage cost optimization.
-
-Outcome:-
-
---> Reduced operational costs by 30%.
---> Improved scalability with auto-scaling groups.
-Enhanced security posture with AWS security services.
-Achieved 99.99% uptime with improved disaster recovery capabilities.
- 
+## Conclusion
+The implementation of TOGAF provided a structured approach to address the institution's challenges, resulting in significant improvements in IT operations.
