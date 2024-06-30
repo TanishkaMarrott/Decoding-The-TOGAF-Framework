@@ -1,8 +1,12 @@
-# The Architecture Content Framework
+## The Architecture Content Framework
 
-Okay, so the Architecture Content Framework provides a structure to organise / manage the artifacts produced as a part of the architecture development process. 
+--> Provides _"a structure to organise + manage the artifacts_" that've been produced as a part of the Architecture Development Process
 
-> It could be Building Blocks, deliverables, artifacts, governance structures that're necessary for us to develop, manage and communicate EA effectively. 👍
+</br>
+
+> Includes everything --> right from building blocks, deliverables, artifacts & the governance structures that're necessary for us to develop, manage and communicate Enterprise Architecture effectively 👍
+
+</br>
 
 Key Components of the TOGAF Content Framework
 - Architecture Building Blocks or ABBs
