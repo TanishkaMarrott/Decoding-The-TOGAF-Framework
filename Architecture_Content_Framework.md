@@ -1,6 +1,6 @@
 ## The Architecture Content Framework
 
---> Provides _"a structure to organise + manage the artifacts_" that've been produced as a part of the Architecture Development Process
+--> Provides _"**a structure to organise + manage the artifacts**_" that've been produced as a part of the Architecture Development Process
 
 </br>
 
@@ -8,22 +8,58 @@
 
 </br>
 
-Key Components of the TOGAF Content Framework
+Key Components encompassing this framework:-
+
 - Architecture Building Blocks or ABBs
 - Solution Building Blocks - SBBs
 - Deliverables
 - Artifacts
 - Governance
 
---> Architecture Building Blocks is more of an abstract concept,     
+</br>
+
+Let's start :-)
+
+</br>
+
+--> Architecture Building Blocks
+
+ABBs are more of "an abstract concept"          
 They're high-level components that describe certain aspects of an architecture. 
 
-They're the foundational elements of an architecture, describing certain functionality that the architecture would offer, (It's intangible, high-level, and is not tied to a specific technology). They're reusable and can be used across different projects/ architectures, and are aligned with industry/ organisationsal standards
+</br>
 
---> Solution Building blocks are the tangibles, they represent the abstract ABBs in a tangible, concrete form. So, they're the actual implementations, created at the time of Architecture Realisation. 
+> They're the base --> the foundational elements of an architecture. Primarily describe "_the functionality_" an architecture should offer.
+
+</br>
+
+Key features:-
+
+--> It's intangible, high-level and is not tied to a specific technology. 
+
+--> They're reusable and can be used across different projects/ architectures, and are aligned with industry/ organisational standards
+
+</br>
+
+_**--> Solution Building blocks**_
+
+How do we differentiate these from ABBs?
+
+SBBs are the tangibles...
+
+They represent the abstract ABBs in a tangible, concrete form. _So, they're the actual implementations_, created at the time of Architecture Realisation. 
+
 They're associated with specific platforms/ technologies. They include the detailed specifics (deployed and maintained as a part of the Architecture)
 
-> ABBs describe the functionality (Intangibles) SBBs actually implement the functionality, they're tangible components / concrete components, as a part of the Architectural realisation. --> they're implementing the functionality described by the SBBs
+</br>
+
+> 📌 Please Note:-
+> 
+> ABBs:- _Describe the functionality_ (Intangibles).
+> 
+> SBBs:- _Actually implement the functionality described by the ABBs_ (Tangible, concrete)
+
+</br>
 
 --> Deliverables:- They're the outputs, the models, documents that're produced as a part of the Architecture development Process. They're they "key" factors in driving communication, governance and decision making.
  - Architecture Vision:- High-level overview, describes the desired target state
