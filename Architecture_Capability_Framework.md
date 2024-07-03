@@ -33,7 +33,7 @@
 - Roles and Responsibilities:-
 
    - Enterprise Architect -       
-      Aligns the IT Strategy with business goals, oversees governance and frameworks "across the org"
+      He is the one who aligns the IT strategy with the business goals --> oversees governance and frameworks "across the org"
      
    - Chief Architect -      
       This is a more technically inclined role --> Defines + Implements high-level technical solutions
@@ -59,7 +59,7 @@
 
 </br>
 
-Processes
+Processes ()
 
   - ADM :- The Architectural Development Model, Heart of TOGAF, Iterative model for designing, planning, implementing and Governing Enterprise Architecture
   - Architecture governance :- More around oversight of the implementation, ensuring the architecture practice conforms with architecture standards,  plus alignment with the business goals 
