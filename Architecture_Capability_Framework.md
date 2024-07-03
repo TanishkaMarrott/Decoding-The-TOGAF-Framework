@@ -32,30 +32,30 @@
 
 - Roles and Responsibilities:-
 
+   - Enterprise Architect -       
+      Aligns the IT Strategy with business goals, oversees governance and frameworks "across the org"
+     
+   - Chief Architect -      
+      This is a more technically inclined role --> Defines + Implements high-level technical solutions
+     
+   - Domain architect -      
+      He'd be handling the integrations AND interoperability of "domain-specific" architectures --> (Referring to BDAT)
+
+   - Solution Architect -     
+      SA typically designs "project-specific" solutions. He ensures compliance with EA.
+
 </br>
 
 > A quick clarification before we proceed     
-> --> I'm often asked this question. _"What exactly is the difference between a Chief Architect and an Enterprise Architect?_"
+> --> _"What exactly is the difference between a Chief Architect and an Enterprise Architect?_"
 >
 > Let me make things crystal-clear, before we actually proceed
 >
 > 1 --> An EA ensures that the IT strategy is very well-aligned with the overarching business objectives. His work is more around creating frameworks and standards, overseeing governance across all BUs.
 >
->  Two key terms you'd remember here :- "oversee" and "across the org, all BUs"
+>  Key terms to remember:- "oversee" and "across the org, all BUs"
 >
-> 2 --> CA would mean a "technical role". He would be defining & implementing high-level technical solutions, driving innovation --> across domains. 
-
-</br>
-
-Now that we're clear let's proceed:-
-
-   - Enterprise Architect --> Aligns the IT Strategy with business goals, oversees governance and frameworks "across the org"
-     
-   - Chief Architect --> This is a more technically inclined role, Defines + Implements high-level technical solutions
-     
-   - Domain architect --> He'd be handling the integrations AND interoperability of "domain-specific" architectures --> (Referring to BDAT)
-
-   - Solution Architect --> Designs project-specific solutions. He ensures compliance with EA.
+> 2 --> CA is typically a "technical role". He would be defining & implementing high-level technical solutions, driving innovation --> across domains. 
 
 </br>
 
